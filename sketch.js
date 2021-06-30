@@ -63,9 +63,10 @@ function draw() {
         text('It is said that here, time is cyclical and instantaneous. There is no beginning and no end.', width/8, height/8);
         text('There are only the moments you choose to focus on.', width/8, (height/8)+height/19);
   
-    text('Please turn on your webcam and stand away from your laptop.', width/8, height/4+(height/19))
+  text('Please turn on your webcam and stand away from your laptop.', width/8, height/4+(height/19))
   text('Raise your hands and watch as you move slowly side to side around the room.',width/8, (height/4)+height/19+(height/19)+ (height/19));
-    text('You have the control to turn time backwards and forwards to experience any moment.', width/8, (height/4)+height/19+(height/19));
+  text('You have the control to turn time backwards and forwards to experience any moment.', width/8, (height/4)+height/19+(height/19));
+  text('Please be aware that this version of the experience contains live footage of the bombings in Palestine.', width/8, (height/4)+height/19+(height/19)+(height/19)+(height/19));
   
   fill(200, 200, 0)
   text('Welcome to the Fourth Dimension.', width/8, height/1.5);
